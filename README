@@ -1,1 +1,5 @@
 This project depends on http://code.google.com/p/javamail-android/.  Please include mail.jar as a lib before building.
+
+INFO:
+This app only has one purpose, to access your gmail account and iterate through all unread messages and mark them as
+read.
