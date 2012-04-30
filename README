@@ -1,1 +1,1 @@
-This file was created by IntelliJ IDEA 11.1.1 for binding GitHub repository
+This project depends on http://code.google.com/p/javamail-android/.  Please include mail.jar as a lib before building.
