@@ -1,0 +1,25 @@
+<LinearLayout
+        android:id="@+id/widget32"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText
+            android:id="@+id/txtUN"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email address"
+            android:textSize="18sp" />
+    <EditText
+            android:id="@+id/txtPW"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:textSize="18sp"
+            android:password="true" />
+    <Button
+            android:id="@+id/btnGO"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="GO!" />
+</LinearLayout>
