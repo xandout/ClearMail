@@ -1,6 +1,6 @@
 package com.turnertech;
 
-import android.widget.Toast;
+
 
 import javax.mail.*;
 import javax.mail.search.FlagTerm;
