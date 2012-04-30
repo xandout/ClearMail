@@ -6,6 +6,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
     <EditText
             android:id="@+id/txtUN"
+            android:inputType="textEmailAddress"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:hint="Email address"
