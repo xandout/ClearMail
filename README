@@ -3,3 +3,5 @@ This project depends on http://code.google.com/p/javamail-android/.  Please incl
 INFO:
 This app only has one purpose, to access your gmail account and iterate through all unread messages and mark them as
 read.
+
+Works with both free gmauil accounts and google apps subscriptions.
